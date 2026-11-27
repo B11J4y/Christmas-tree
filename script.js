@@ -2,7 +2,7 @@
 'use strict';
 /* ---- Easy-to-edit settings ---- */
 var CONFIG = {
-  greeting: 'M E R R Y   C H R I S T M A S   2 0 2 6',
+  greeting: 'M E R R Y   C H R I S T M A S',
   treeRows: 54,            // tree height in character rows
   rotationSpeed: 0.3,      // radians per second
   seed: 2024,
